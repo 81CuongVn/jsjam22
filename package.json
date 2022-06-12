@@ -37,7 +37,7 @@
     "glov-async": "0.0.1",
     "glslang-validator-prebuilt-predownloaded": "^0.0.2",
     "json5": "^2.1.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mkdirp": "^0.5.1",
     "request": "^2.88.2",
     "winston": "^3.2.1",
